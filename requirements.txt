@@ -1,0 +1,10 @@
+streamlit
+openai
+ollama
+tavily-python
+pydantic
+python-dotenv
+requests
+pandas
+pytest
+reportlab
